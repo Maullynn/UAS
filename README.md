@@ -24,7 +24,7 @@ Selamat datang di Sistem Pemesanan Menu! Script Python ini memungkinkan pengguna
 - 🧾 Menghasilkan struk pembelian yang menarik dengan rincian item dan total harga.
 
 ## Demo
-
+![Screenshot (307)](https://github.com/Maullynn/UAS/assets/144296695/8c3cc5bc-fdf6-4a2a-b567-8ad87c73ddb7)
 ![Demo Sistem Pemesanan Menu](demo.gif)
 
 ## Persyaratan
