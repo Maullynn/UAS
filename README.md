@@ -1,3 +1,9 @@
+## UAS
+- Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
+- List opsi pilihan makanan/minuman dan aksi, bisa menggunakan format dictionary
+- Program harus meminta input pilihan makanan dari pengguna.
+- Program harus menghitung total harga makanan yang dipesan.
+- Program harus menampilkan struk pembelian.
 # Sistem Pemesanan Menu
 
 Selamat datang di Sistem Pemesanan Menu! Script Python ini memungkinkan pengguna untuk menjelajahi menu, melakukan pemesanan, dan menerima struk pembelian.
