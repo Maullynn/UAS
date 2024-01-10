@@ -4,6 +4,8 @@
 - Program harus meminta input pilihan makanan dari pengguna.
 - Program harus menghitung total harga makanan yang dipesan.
 - Program harus menampilkan struk pembelian.
+## link YouTube 
+- https://youtu.be/ugzmqI_Wd_o?si=Q5rQZyzd7MeNVo8q
 # Sistem Pemesanan Menu
 
 Selamat datang di Sistem Pemesanan Menu! Script Python ini memungkinkan pengguna untuk menjelajahi menu, melakukan pemesanan, dan menerima struk pembelian.
@@ -59,5 +61,3 @@ Selamat datang di Sistem Pemesanan Menu! Script Python ini memungkinkan pengguna
 ## Berkontribusi
 
 Kontribusi sangat dihargai! Jika Anda menemukan masalah atau memiliki saran perbaikan, silakan buka isu atau buat permintaan tarik.
- ## link YouTube 
--https://youtu.be/ugzmqI_Wd_o?si=Q5rQZyzd7MeNVo8q
