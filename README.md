@@ -54,7 +54,8 @@ Selamat datang di Sistem Pemesanan Menu! Script Python ini memungkinkan pengguna
 ## Berkontribusi
 
 Kontribusi sangat dihargai! Jika Anda menemukan masalah atau memiliki saran perbaikan, silakan buka isu atau buat permintaan tarik.
-
+ ## link YouTube 
+-https://youtu.be/ugzmqI_Wd_o?si=Q5rQZyzd7MeNVo8q
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
